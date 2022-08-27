@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69666458262",
+    "project_id": "react-native-push-notifi-7013d",
+    "storage_bucket": "react-native-push-notifi-7013d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69666458262:android:df279cba4c771f70b390b7",
+        "android_client_info": {
+          "package_name": "com.notification.umesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69666458262-h3k1f5r9447sghm1jtapgjm4m42jk113.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo47NCZENmZ0t3ovJvXcd66YLqZv4CvdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69666458262-h3k1f5r9447sghm1jtapgjm4m42jk113.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
