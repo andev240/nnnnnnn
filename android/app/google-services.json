@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "69666458262-p9uf80vc2dnelg2htichccvf71f2vmjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notification.umesh",
+            "certificate_hash": "6e13c9d2fc9426ee453a83616768a2fb514c84b7"
+          }
+        },
+        {
           "client_id": "69666458262-h3k1f5r9447sghm1jtapgjm4m42jk113.apps.googleusercontent.com",
           "client_type": 3
         }
